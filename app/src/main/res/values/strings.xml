@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">VmateFile Rename/Copy</string>
+    <string name="timeZoneText">TIME ZONE\n> Seoul in Korea : 9\n> St.John\'s in Canana : -2.5\n>Los Angeles in US : -7</string>
+    <string name="renameText">RENAME or COPY\nIf this switch is ON, vmate source files will be renamed with new name\n\nIf this switch OFF, files will be copied into DCIM folder</string>
+    <string name="deleteText">DELETE AFTER COPY\nIf this switch is ON, vmate source files will be deleted one by one just after copying into destination folder\nRemember you should have enough storage if you do not delete</string>
+</resources>
